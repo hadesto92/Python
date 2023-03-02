@@ -22,6 +22,8 @@ for number_line in range(0, len(content_temp)):
         for sign_temp in range(sign+1, len(content_temp[number_line])):
             if(ord(line[sign])-ord(line[sign_temp])<-10 or ord(line[sign])-ord(line[sign_temp])>10):
                 flag = 'false'
+        if flag == 'false':
+            break
 
     #Zapisanie odpowiedzi w pliku i zamknięcie plików
     if flag == 'true':
