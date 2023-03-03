@@ -17,10 +17,10 @@ content_len = len(content_temp)
 
 #Przeliczenie klucza. W zadaniu należy przeliczyć klucz aby zmieniał litery od A do Z czyli od 65 do 90 różnica wychodzi
 # 26 czyli zmiejszamy każdy klucz o 26 do puki nie będzie mniejszy niż 26 dopiero ta wartość staje się naszym kluczem
-klucz = 107
+key = 107
 
-while klucz>26:
-    klucz-=26
+while key>26:
+    key-=26
 
 #Pierwsza pętla przechodząca przez wiersze
 for number_line in range(0,content_len):
@@ -28,12 +28,13 @@ for number_line in range(0,content_len):
     #Druga pętla przechodząca przez litery w wierszu i podmieniająca je na odpowiednie litery z szyfru
     for number_sign in range(0, len(content_temp[number_line])):
         line = content_temp[number_line] #Utworzenie zmiennej która trzyma nam dany wiersz jako jedną wartość
-        if(ord(line[number_sign])+klucz<=90):
-            result += chr(ord(line[number_sign])+klucz)
+        if(ord(line[number_sign])+key<=90):
+            result += chr(ord(line[number_sign])+key)
         else:
-            result += chr((ord(line[number_sign])+klucz)-26)
+            result += chr((ord(line[number_sign])+key)-26)
     #Zapisanie linijki
     file_save.write(result + "\n")
 
+#Zamknięcie plików
 file_save.close()
 file_temp.close()
