@@ -50,7 +50,6 @@ for number_line in range(0,content_len-1):
 
     #Zamienienie słowa na szyfrogram za pomocą klucz
     for number_sign in range(0, index_temp):
-        line = content_temp[number_line] #Utworzenie zmiennej która trzyma nam dany wiersz jako jedną wartość
         if(ord(line[number_sign])+key<=90):
             result += chr(ord(line[number_sign])+key)
         else:
