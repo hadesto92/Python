@@ -36,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.M.4.2.2019.DZIALKI">
+  <component name="RunManager" selected="Python.M.4.3.2019.DZIALKI">
     <configuration name="M.4.1.2019.DZIALKI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="M.6.1.2016.CEZAR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="M.4.3.2019.DZIALKI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -91,7 +91,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M.6.1.2016.CEZAR.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M.4.3.2019.DZIALKI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.M.4.3.2019.DZIALKI" />
         <item itemvalue="Python.M.4.2.2019.DZIALKI" />
         <item itemvalue="Python.M.4.1.2019.DZIALKI" />
         <item itemvalue="Python.M.6.3.2016.CEZAR" />
         <item itemvalue="Python.M.6.2.2016.CEZAR" />
-        <item itemvalue="Python.M.6.1.2016.CEZAR" />
       </list>
     </recent_temporary>
   </component>
