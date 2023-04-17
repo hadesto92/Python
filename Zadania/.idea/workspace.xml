@@ -44,8 +44,8 @@
       <recent name="E:\Projekty\Python\Zadania" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.M.5.3.2016.GRA">
-    <configuration name="M.4.2.2020.PARY" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.M.4.4.2018.SCALANIE">
+    <configuration name="M.4.1.2018.SCALANIE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -57,7 +57,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M.4.2.2020.PARY.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M.4.1.2018.SCALANIE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="M.4.3.2020.PARY" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="M.4.2.2018.SCALANIE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -78,7 +78,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M.4.3.2020.PARY.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M.4.2.2018.SCALANIE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="M.5.1.2016.GRA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="M.4.3.2018.SCALANIE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -99,7 +99,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M.5.1.2016.GRA.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M.4.3.2018.SCALANIE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="M.5.2.2016.GRA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="M.4.4.2018.SCALANIE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -120,7 +120,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M.5.2.2016.GRA.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M.4.4.2018.SCALANIE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.M.4.4.2018.SCALANIE" />
+        <item itemvalue="Python.M.4.3.2018.SCALANIE" />
+        <item itemvalue="Python.M.4.2.2018.SCALANIE" />
+        <item itemvalue="Python.M.4.1.2018.SCALANIE" />
         <item itemvalue="Python.M.5.3.2016.GRA" />
-        <item itemvalue="Python.M.5.2.2016.GRA" />
-        <item itemvalue="Python.M.5.1.2016.GRA" />
-        <item itemvalue="Python.M.4.3.2020.PARY" />
-        <item itemvalue="Python.M.4.2.2020.PARY" />
       </list>
     </recent_temporary>
   </component>
